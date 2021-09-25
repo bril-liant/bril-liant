@@ -1,6 +1,6 @@
 - 👋 @bril-liant
 - 👀 I’m interested in User Experience and Development
-- 🌱 Python, JavaScript
+- 🌱 Python, JavaScript, PHP
 
 <!---
 bril-liant/bril-liant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
